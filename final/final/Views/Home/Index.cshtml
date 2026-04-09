@@ -1,0 +1,83 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Statistics</title>
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js" defer
+            onerror="(function(){var s=document.createElement('script');s.defer=true;s.src='https://unpkg.com/jquery@3.7.1/dist/jquery.min.js';document.head.appendChild(s)})();"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer
+            onerror="(function(){var s=document.createElement('script');s.defer=true;s.src='https://unpkg.com/chart.js@4.4.1/dist/chart.umd.js';document.head.appendChild(s)})();">
+    </script>
+    <script src="~/js/app.js" defer></script>
+    <meta name="color-scheme" content="light dark">
+    <meta name="description" content="Business dashboard with daily statistics and date range charts.">
+</head>
+<body>
+    <header class="site-header">
+        <h1>Daily Statistics</h1>
+    </header>
+
+    <main class="container">
+        <section class="filters">
+            <div class="date-box" id="fromBox">
+                <div class="date-box__header">
+                    <span class="date-box__label">From</span>
+                    <input type="time" id="timeFrom" aria-label="Time from" class="time-input" step="60">
+                </div>
+                <input type="date" id="dateFrom" aria-label="Date from">
+            </div>
+
+            <div class="date-box" id="toBox">
+                <div class="date-box__header">
+                    <span class="date-box__label">To</span>
+                    <input type="time" id="timeTo" aria-label="Time to" class="time-input" step="60">
+                </div>
+                <input type="date" id="dateTo" aria-label="Date to">
+            </div>
+
+            <button id="applyBtn" class="btn" type="button" aria-label="Apply date range">Apply</button>
+        </section>
+
+        <section class="charts">
+            <div class="chart-card">
+                <div class="chart-card__header">
+                    <h2>Sentiment Score</h2>
+                    <span class="chart-card__range" id="rangeLabel1">—</span>
+                </div>
+                <canvas id="salesChart" height="100"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-card__header">
+                    <h2>Main Keywords</h2>
+                    <span class="chart-card__range" id="rangeLabel2">—</span>
+                </div>
+ <div class="card">
+                    <div class="card-body">
+                        <div style="height:180px; position:relative;">
+                            <canvas id="ordersChart"></canvas>
+                        </div>
+
+                        <div id="legend-container"
+                             style="max-width:100%; overflow-y:scroll; white-space:nowrap; margin-top:10px;">
+                        </div>
+                    </div>
+                </div>
+
+                </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <small>© <span id="year"></span> Interns</small>
+    </footer>
+</body>
+</html>
