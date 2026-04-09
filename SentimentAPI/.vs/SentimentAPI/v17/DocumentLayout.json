@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\controllers\\sentimenttodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\controllers\\sentimenttodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\speechservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\model\\sentimentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\model\\sentimentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\controllers\\speechcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\keywordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\controllers\\keywordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\controllers\\keywordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|c:\\users\\nagha\\onedrive\\desktop\\daily statistics\\sentimentapi\\sentimentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513B23C-2F51-49C8-9474-C0AEA8CFFA36}|SentimentAPI\\SentimentAPI.csproj|solutionrelative:sentimentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SentimentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Model\\SentimentResponse.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Model\\SentimentResponse.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Model\\SentimentResponse.cs",
+              "RelativeToolTip": "SentimentAPI\\Model\\SentimentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:53:21.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SentimentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\appsettings.json",
+              "RelativeToolTip": "SentimentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T06:56:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpeechController.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SpeechController.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Controllers\\SpeechController.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SpeechController.cs",
+              "RelativeToolTip": "SentimentAPI\\Controllers\\SpeechController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:47:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentimentToDBController.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SentimentToDBController.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Controllers\\SentimentToDBController.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SentimentToDBController.cs",
+              "RelativeToolTip": "SentimentAPI\\Controllers\\SentimentToDBController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:46:03.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeechService.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\SpeechService.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\SpeechService.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\SpeechService.cs",
+              "RelativeToolTip": "SentimentAPI\\SpeechService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:45:34.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SentimentService.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\SentimentService.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\SentimentService.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\SentimentService.cs",
+              "RelativeToolTip": "SentimentAPI\\SentimentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:45:16.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentimentController.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SentimentController.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Controllers\\SentimentController.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\SentimentController.cs",
+              "RelativeToolTip": "SentimentAPI\\Controllers\\SentimentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:45:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Program.cs",
+              "RelativeToolTip": "SentimentAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:44:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeywordController.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\KeywordController.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\Controllers\\KeywordController.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\Controllers\\KeywordController.cs",
+              "RelativeToolTip": "SentimentAPI\\Controllers\\KeywordController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:28:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeywordService.cs",
+              "DocumentMoniker": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\KeywordService.cs",
+              "RelativeDocumentMoniker": "SentimentAPI\\KeywordService.cs",
+              "ToolTip": "C:\\Users\\nagha\\OneDrive\\Desktop\\Daily Statistics\\SentimentAPI\\SentimentAPI\\KeywordService.cs",
+              "RelativeToolTip": "SentimentAPI\\KeywordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:28:21.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
